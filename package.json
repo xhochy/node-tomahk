@@ -1,0 +1,25 @@
+{
+  "name": "tomahk",
+  "preferGlobal": false,
+  "version": "0.1.0",
+  "author": "Uwe L. Korn <uwelk@xhochy.com>",
+  "description": "Node.JS binding to interact with toma.hk ",
+  "contributors": [],
+  "main": "./lib/tomahk.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xhochy/node-tomahk.git"
+  },
+  "keywords": [
+    "tomahawk",
+    "music",
+    "player",
+    "tomahk"
+  ],
+  "dependencies": {
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
