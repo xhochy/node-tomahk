@@ -2,6 +2,11 @@ node-tomahk
 ===========
 
 Bindings for node.js to interact and using the [toma.hk](http://toma.hk) website.
+Install it using:
+
+```bash
+$ npm install tomahk
+```
 
 ## Create a playlist
 
