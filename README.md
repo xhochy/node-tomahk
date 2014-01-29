@@ -8,7 +8,7 @@ Install it using:
 $ npm install tomahk
 ```
 
-## Create a playlist
+### Create a playlist
 
 
 ```javascript
@@ -20,13 +20,13 @@ tomahk.createPlaylist("Awesome playlist!", [
   });
 ```
 
-## Get the URL for an album
+### Get the URL for an album
 
 ```javascript
 var url = tomahk.albumUrl('Blur', '13');
 ```
 
-## Get the URL for a track
+### Get the URL for a track
 
 ```javascript
 var url = tomahk.trackUrl('Bloc Party', 'Ratchet');
@@ -36,7 +36,7 @@ tomahk.shortTrackUrl('Bloc Party', 'Ratchet', function (url) {
 });
 ```
 
-## Get the URL for an artist
+### Get the URL for an artist
 
 ```javascript
 var url = tomahk.artistUrl('Bloc Party');
