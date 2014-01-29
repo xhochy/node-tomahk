@@ -1,7 +1,7 @@
 node-tomahk
 ===========
 
-Node.JS binding to interact with toma.hk
+Bindings for node.js to interact and using the [toma.hk](http://toma.hk) website.
 
 ## Create a playlist
 
